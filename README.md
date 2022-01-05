@@ -16,6 +16,6 @@ The official download and info page of Attis Vault in minecraft, made by JTechGa
 - If you chose the map, then just paste in the saves folder.
 # Downloads:
 
-- map: https://drive.google.com/drive/folders/1UZTDsf04WwpiLz3bqpO1JNyNKF1z7bWk?usp=sharing
+- map: (not working and outdated) https://drive.google.com/drive/folders/1UZTDsf04WwpiLz3bqpO1JNyNKF1z7bWk?usp=sharing
 - zip: https://drive.google.com/file/d/1ahSCdp6kegcindx52cmZcZ5atNomEdrr/view?usp=sharing
 # (edit: The map download is currently a tiny bit broken, so i recommend the zip download, i am working on it.)
